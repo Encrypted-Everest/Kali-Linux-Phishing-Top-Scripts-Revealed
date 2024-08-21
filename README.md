@@ -21,6 +21,8 @@ Explore these 🔥 powerful phishing scripts to enhance your ethical hacking too
 11. **[Phishing Frenzy](https://github.com/pentestgeek/phishing-frenzy)** - *🎉 Community-driven*
 12. **Social-Engineer Toolkit (SET)** - *📦 Built into Kali Linux*
 
+By - @Encrypted-Everest
+
 ---
 
 ## 📄 Description
