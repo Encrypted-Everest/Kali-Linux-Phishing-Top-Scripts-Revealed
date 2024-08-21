@@ -1,5 +1,3 @@
-# Kali-Linux-Phishing-Top-Scripts-Revealed
-Discover the most effective phishing scripts for Kali Linux. 
 # 🎯 Top Phishing Scripts for Kali Linux
 
 ![Phishing GIF](https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif)
